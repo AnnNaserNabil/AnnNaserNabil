@@ -116,7 +116,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31k5hlektf4ymsgwpdwobycjhfri&cover_image=true&theme=natemoo-re&show_offline=false&background_color=91f298&interchange=false&bar_color=f2cc63&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31k5hlektf4ymsgwpdwobycjhfri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
 
 <br/>  
 
