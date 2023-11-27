@@ -1,25 +1,3 @@
-### Hi There, Welcome  
-<div align="center">
-<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/new-brochure1-05-Cropped.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Nabil, walking the path of a data magician 👨‍💻</div>  
-  
-
-- 🔭 I’m currently learning Data Science on [Coursera](https://github.com/AnnNaserNabil/Coursera_Learning) & [kaggle](https://github.com/AnnNaserNabil/Kaggle_courses)  
-  
-
-- 🌱 I’m currently learning Python and R  
-  
-
-- ❓ Ask me about anything related to how to learn faster  
-  
-
-- ⚡ Fun fact: I might be a ghost  
-  
-
-<br/>  
 
 
 ## My Skill Set  
