@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left"> [I'm Ann Naser Nabil](https://annnasernabil.github.io/) from Earth<br><br>- 🔭 I’m working as Data Science aparentice<br>- 📚 I'm currently learning "Art of Thinking like a DATA SCIENTIST"<br>- ⚡ In my free time I Meditate</p>
+[I'm Ann Naser Nabil](https://annnasernabil.github.io/) <p align="left">  from Earth<br><br>- 🔭 I’m working as Data Science aparentice<br>- 📚 I'm currently learning "Art of Thinking like a DATA SCIENTIST"<br>- ⚡ In my free time I Meditate</p>
 
 ###
 
