@@ -60,4 +60,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 ###
