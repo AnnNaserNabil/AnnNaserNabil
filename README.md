@@ -18,6 +18,24 @@
 
 [I'm Ann Naser Nabil](https://annnasernabil.github.io/) <p align="left">  from Earth<br><br>- 🔭 I’m working as Data Science aparentice<br>- 📚 I'm currently learning "Art of Thinking like a DATA SCIENTIST"<br>- ⚡ In my free time I Meditate</p>
 
+
+<p>
+
+Hello! I'm Ann Naser Nabil, an interdisciplinary artist and data scientist based in the BD. My journey began with a deep passion for technology at the age of 13, when I started developing websites and exploring the world of ethical hacking. This curiosity led me to delve into computer networking, machine learning, and data science, fields in which I have completed over 24 courses and gained hands-on experience as a Data Engineer Intern at a renowned US-based company.
+
+As an artist, I specialize in vibrant, color-rich templates and find joy in bringing stories and emotions to life through my work. My creative expression extends to writing stories, poems, and satire, and I am constantly inspired by the intersection of art and technology. I also study psychology and spirituality, which deeply influence my art and help me connect with the human experience on a profound level.
+
+In my free time, I enjoy playing MOBA games and relaxing adventure games, practicing martial arts, and meditating on how humanity can evolve to its fullest potential. My academic background in economics has equipped me with a keen analytical mind, and my research in this field aims to uncover insights that can drive positive change.
+
+I aspire to achieve a lifestyle of financial freedom, where I can blend my data science expertise with my artistic pursuits. My goal is to travel the world, gathering spiritual and moral knowledge from diverse cultures, and using this wisdom to contribute to the global community. Through my work, I aim to create solutions that promote sustainability, equity, and well-being for all.
+
+Let's connect and create something extraordinary together!
+
+
+
+</p>
+
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
