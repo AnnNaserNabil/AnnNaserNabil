@@ -19,7 +19,7 @@
 [I'm Ann Naser Nabil](https://annnasernabil.github.io/) <p align="left">  from Earth<br><br>- 🔭 Versatile Artist and Tech Innovator: Data Science, AI, Economics, and Creative Technology<br>- 📚 Blending My Consciousness with Creative Intelligence <br>- ⚡ In my free time I Meditate</p>
 
 
-[My Digital Portfolio Of Art and Gaming ](https://bit.ly/3WcunGH)
+[My Digital Portfolio Of Art and Gaming ](https://bit.ly/3VTkf4y)
 
 [MY Bit.ly Pages](https://bit.ly/m/AnnZzzz) 
 
