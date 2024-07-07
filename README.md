@@ -19,6 +19,10 @@
 [I'm Ann Naser Nabil](https://annnasernabil.github.io/) <p align="left">  from Earth<br><br>- 🔭 Versatile Artist and Tech Innovator: Data Science, AI, Economics, and Creative Technology<br>- 📚 Blending My Consciousness with Creative Intelligence <br>- ⚡ In my free time I Meditate</p>
 
 
+[My Digital Portfolio Of Art and Gaming ](https://bit.ly/45WOThT)
+
+[MY Bit.ly Pages](https://bit.ly/m/AnnZzzz) 
+
 <p>
 
 Hello! I'm Ann Naser Nabil, an interdisciplinary artist and data scientist based in the BD. My journey began with a deep passion for technology at the age of 13, when I started developing websites and exploring the world of ethical hacking. This curiosity led me to delve into computer networking, machine learning, and data science, fields in which I have completed over 24 courses and gained hands-on experience as a Data Engineer Intern at a renowned US-based company.
@@ -32,8 +36,7 @@ I aspire to achieve a lifestyle of financial freedom, where I can blend my data 
 Let's connect and create something extraordinary together!
 
 
-[My Digital Portfolio Of Art and Gaming ](https://bit.ly/45WOThT)) 
-[MY Bit.ly Pages] (https://bit.ly/m/AnnZzzz) 
+
 
 </p>
 
