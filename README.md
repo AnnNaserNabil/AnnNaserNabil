@@ -32,6 +32,8 @@ I aspire to achieve a lifestyle of financial freedom, where I can blend my data 
 Let's connect and create something extraordinary together!
 
 
+[My Digital Portfolio Of Art and Gaming ](https://bit.ly/45WOThT)) 
+[MY Bit.ly Pages] (https://bit.ly/m/AnnZzzz) 
 
 </p>
 
