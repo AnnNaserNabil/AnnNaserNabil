@@ -16,7 +16,7 @@
 
 ###
 
-[I'm Ann Naser Nabil](https://annnasernabil.github.io/) <p align="left">  from Earth<br><br>- 🔭 Versatile Artist and Tech Innovator: Data Science, AI, Economics, and Creative Technology<br>- 📚 Blending My Consciousness with Creative Intelligence <br>- ⚡ In my free time I Meditate</p>
+[I'm Ann Naser Nabil](https://annnasernabil.github.io/) from Earth<br><br>- 🔭 Versatile Artist and Tech Innovator: Data Science, AI, Economics, and Creative Technology<br>- 📚 Blending My Consciousness with Creative Intelligence <br>- ⚡ In my free time I Meditate</p>
 
 
 [My Digital Portfolio Of Art and Gaming ](https://bit.ly/3VTkf4y)
