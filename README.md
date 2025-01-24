@@ -16,29 +16,21 @@
 
 ###
 
-[I'm Ann Naser Nabil](https://annnasernabil.github.io/) from Earth<br><br>- 🔭 Versatile Artist and Tech Innovator: Data Science, AI, Economics, and Creative Technology<br>- 📚 Blending My Consciousness with Creative Intelligence <br>- ⚡ In my free time I Meditate</p>
+👋 Hi, I’m Ann Naser Nabil from Earth!
 
+🎨 Artist & Innovator blending Data Science, AI, Economics, and Creative Technology
+💡 Exploring the intersection of Art, Psychology, and Spirituality
+🎮 Gamer, Martial Artist, and Storyteller
 
-[My Digital Portfolio Of Art and Gaming ](https://bit.ly/3VTkf4y)
+🌟 Passionate about:
 
-[MY Bit.ly Pages](https://bit.ly/m/AnnZzzz) 
+Building vibrant, story-rich art and tech solutions
+Analyzing data to drive meaningful change
+Meditating on humanity's evolution
+🚀 On a journey to achieve financial freedom, explore the world, and contribute to global well-being.
 
-<p>
+Let’s connect and create something extraordinary!
 
-Hello! I'm Ann Naser Nabil, an interdisciplinary artist and data scientist based in the BD. My journey began with a deep passion for technology at the age of 13, when I started developing websites and exploring the world of ethical hacking. This curiosity led me to delve into computer networking, machine learning, and data science, fields in which I have completed over 24 courses and gained hands-on experience as a Data Engineer Intern at a renowned US-based company.
-
-As an artist, I specialize in vibrant, color-rich templates and find joy in bringing stories and emotions to life through my work. My creative expression extends to writing stories, poems, and satire, and I am constantly inspired by the intersection of art and technology. I also study psychology and spirituality, which deeply influence my art and help me connect with the human experience on a profound level.
-
-In my free time, I enjoy playing MOBA games and relaxing adventure games, practicing martial arts, and meditating on how humanity can evolve to its fullest potential. My academic background in economics has equipped me with a keen analytical mind, and my research in this field aims to uncover insights that can drive positive change.
-
-I aspire to achieve a lifestyle of financial freedom, where I can blend my data science expertise with my artistic pursuits. My goal is to travel the world, gathering spiritual and moral knowledge from diverse cultures, and using this wisdom to contribute to the global community. Through my work, I aim to create solutions that promote sustainability, equity, and well-being for all.
-
-Let's connect and create something extraordinary together!
-
-
-
-
-</p>
 
 
 ###
