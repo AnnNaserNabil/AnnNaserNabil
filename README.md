@@ -86,6 +86,6 @@ Let’s connect and create something extraordinary!
 <div align="center">
   <h2>🔥 GitHub Streak Stats 🔥</h2>
   <a href="https://github.com/AnnNaserNabil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnNaserNabil&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="200px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnnNaserNabil&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </div>
