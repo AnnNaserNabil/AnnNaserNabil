@@ -79,13 +79,3 @@ Let’s connect and create something extraordinary!
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ###
-
-
-### Analytics ⚙️
-  
-<div align="center">
-  <h2>🔥 GitHub Streak Stats 🔥</h2>
-  <a href="https://github.com/AnnNaserNabil">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AnnNaserNabil&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</div>
