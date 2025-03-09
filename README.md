@@ -11,6 +11,7 @@
 
 Check out my [portfolio website:](https://AnnNaserNabil.github.io)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AnnNaserNabil&color=blue)
 
 
 ###
