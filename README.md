@@ -8,7 +8,7 @@
 
 <h3 align="left">👩‍💻 Who Am I?</h3>
 
-👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, weaving magic at the crossroads of creativity and technology.
+👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, blending creativity and technology into something extraordinary at their crossroads.
 
 🎨 **Artist & Innovator** | I fuse **Data Science**, **AI**, **Economics**, and **Creative Tech** into vibrant, story-driven solutions.  
 💡 **Explorer** | I dive deep into the realms of **Art**, **Psychology**, and **Spirituality** to uncover what makes us human.  
