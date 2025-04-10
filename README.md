@@ -12,9 +12,9 @@
 👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, blending creativity and technology into something extraordinary at their crossroads.
 
 
-🎨 **Artist & Innovator** | I merge **Data Science**, **AI**, and **Creative Tech** with passions for music, painting, writting and gaming.  
-💡 **Explorer** | I dive into the intersections of **Psychology**, **Spirituality**, and **Human connection** through code and creativity.  
-🥋 **Multifaceted Soul** | Monk, Martial artist, Music lover, and Writter crafting vibrant, story-rich solutions.  
+🎨 **Artist & Innovator** | | I merge **Data Science**, **AI**, and **Creative Tech** with passions for music, painting, writting and gaming.  
+💡 **Explorer** | | I dive into the intersections of **Psychology**, **Spirituality**, and **Human connection** through code and creativity.  
+🥋 **Multifaceted Soul** | | Monk, Martial artist, Music lover, and Writter crafting vibrant, story-rich solutions.  
 
 🌟 **What Fuels Me?**  
 - Building indie projects that fuse tech, art, and clever twists.  
