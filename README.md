@@ -2,7 +2,7 @@
   <img height="500" src="https://c4.wallpaperflare.com/wallpaper/220/987/639/ubuntu-linux-terminal-hacker-wallpaper-preview.jpg" />
 </div>
 
-<h1 align="center">✨ Welcome, Traveler! <img src="https://komarev.com/ghpvc/?username=AnnNaserNabil&style=flat-square&label=🌟&color=blue" alt="Visitor Count" /> You’re on This Cosmic Journey with Me ✨</h1>
+<h1 align="center">✨ Welcome, Traveler! <img src="https://komarev.com/ghpvc/?username=AnnNaserNabil&style=flat-square&label=🌟&color=blue" alt="Visitor Count" /> You’re on This Journey with Me ✨</h1>
 
 ---
 
