@@ -59,17 +59,17 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnNaserNabil&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnNaserNabil&theme=radical" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnNaserNabil&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-
----
 
 <h3 align="left">🌌 Let’s Build the Future Together</h3>
 
