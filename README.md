@@ -2,6 +2,7 @@
   <img height="500" src="https://c4.wallpaperflare.com/wallpaper/220/987/639/ubuntu-linux-terminal-hacker-wallpaper-preview.jpg" />
 </div>
 
+
 <h1 align="center">✨ Welcome, Traveler! <img src="https://komarev.com/ghpvc/?username=AnnNaserNabil&style=flat-square&label=🌟&color=blue" alt="Visitor Count" /> You’re on This Journey with Me ✨</h1>
 
 ---
@@ -10,16 +11,17 @@
 
 👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, blending creativity and technology into something extraordinary at their crossroads.
 
-🎨 **Artist & Innovator** | I fuse **Data Science**, **AI**, **Economics**, and **Creative Tech** into vibrant, story-driven solutions.  
-💡 **Explorer** | I dive deep into the realms of **Art**, **Psychology**, and **Spirituality** to uncover what makes us human.  
-🎮 **Multifaceted Creator** | Gamer, martial artist, and storyteller—I live for adventure in all its forms.  
+
+🎨 **Artist & Innovator** | I merge **Data Science**, **AI**, and **Creative Tech** with passions for music, painting, writting and gaming.  
+💡 **Explorer** | I dive into the intersections of **Psychology**, **Spirituality**, and **Human connection** through code and creativity.  
+🥋 **Multifaceted Soul** | Monk, Martial artist, Music lover, and Writter crafting vibrant, story-rich solutions.  
 
 🌟 **What Fuels Me?**  
-- Crafting immersive, narrative-rich art and tech experiences.  
-- Decoding data to spark meaningful impact.  
-- Reflecting on humanity’s evolution through meditation and curiosity.  
+- Building indie projects that fuse tech, art, and clever twists.  
+- Unraveling data to uncover stories and drive impact.  
+- Chasing rhythms, brushstrokes, and ideas that spark joy.  
 
-🚀 **My Mission?** To achieve financial freedom, wander the globe, and uplift global well-being—one bold idea at a time.  
+🚀 **My Journey?** To achieve financial freedom, explore the world, and uplift global well-being, one creation at a time.
 
 **Let’s connect and co-create something extraordinary!**
 
