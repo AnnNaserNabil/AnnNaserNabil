@@ -5,13 +5,8 @@
 
 ###
 
-<h1 align="center">Hello There Traveler</h1>
+<h1 align="center">✨ You Are Traveler #<img src="https://komarev.com/ghpvc/?username=AnnNaserNabil&style=flat-square&color=blue" alt="Profile Views" /> on This Journey ✨</h1>
 
-## My Portfolio
-
-Check out my [portfolio website:](https://AnnNaserNabil.github.io)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnnNaserNabil&color=blue)
 
 
 ###
