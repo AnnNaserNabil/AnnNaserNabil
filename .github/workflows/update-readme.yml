@@ -2,7 +2,7 @@ name: 🛠️ Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⬇️ Checkout repository
+      - name: ⬇️ Checkout repository (no default credentials)
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: 🔄 Update README.md GitHub Stats Image URL
         run: |
@@ -22,10 +24,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "AnnNaserNabil"
-          git config --global user.email "ann.n.nabil@gmail.com"  # use your real GitHub email
-
+          git config --global user.email "ann.n.nabil@gmail.com"  # Replace this
+          
           git remote set-url origin https://AnnNaserNabil:${GH_TOKEN}@github.com/AnnNaserNabil/AnnNaserNabil.git
           
           git add README.md
           git commit -m "🔄 Updated README with latest GitHub stats" || echo "No changes to commit"
           git push origin main
+
