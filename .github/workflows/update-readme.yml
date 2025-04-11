@@ -1,29 +1,29 @@
-name: Update GitHub Stats in README
+name: 🛠️ Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours (you can change this)
-  workflow_dispatch:      # allows manual run from Actions tab
+    - cron: '0 */1 * * *' # Runs every 6 hours — change as needed
+  workflow_dispatch:       # Allows manual trigger from Actions tab
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: ⬇️ Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update README
+      - name: 🔄 Update README.md GitHub Stats Image URL
         run: |
-          sed -i 's/github-readme-stats.vercel.app\/api?username=AnnNaserNabil.*/github-readme-stats.vercel.app\/api?username=AnnNaserNabil\&show_icons=true\&theme=radical\&hide_rank=true\&v='"$(date +%s)"'"/' README.md
+          sed -i 's|github-readme-stats.vercel.app/api?username=AnnNaserNabil.*|github-readme-stats.vercel.app/api?username=AnnNaserNabil\&show_icons=true\&theme=radical\&hide_rank=true\&v='"$(date +%s)"'" alt="GitHub Stats" />|' README.md
 
-           - name: Commit and Push Changes
+      - name: 📝 Commit and Push Changes
         env:
           TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name 'AnnNaserNabil'
-          git config --global user.email 'you@example.com'  # use your actual GitHub email
+          git config --global user.name "AnnNaserNabil"
+          git config --global user.email "your-email@example.com"  # Replace with your GitHub email
           git remote set-url origin https://AnnNaserNabil:${TOKEN}@github.com/AnnNaserNabil/AnnNaserNabil.git
           git add README.md
-          git commit -m "🔄 Updated README with latest GitHub stats"
+          git commit -m "🔄 Updated README with latest GitHub stats" || echo "No changes to commit"
           git push origin main
