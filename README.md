@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">👩‍💻 Who Am I?</h3>
+<h3 align="left">👨‍💻 Who Am I?</h3>
 
 👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, blending creativity and technology into something extraordinary at their crossroads.
 
