@@ -72,9 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnNaserNabil&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<p align="right">
-  <img src="https://api.boot.dev/v1/users/public/ubermensch/thumbnail" >
-</p>
+
 
 ---
 
