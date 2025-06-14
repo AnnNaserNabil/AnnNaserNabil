@@ -64,19 +64,6 @@
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ---
-<div align="center">
-  
- <img src="https://github-readme-stats.vercel.app/api?username=AnnNaserNabil&show_icons=true&theme=radical&hide_rank=true&v=1749801418" alt="GitHub Stats" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnNaserNabil&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
-
----
-
-
 
 <h3 align="left">🌌 Let’s Build the Future Together</h3>
 
