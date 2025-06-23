@@ -103,7 +103,6 @@
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
----
 
 <h3 align="left">🌌 Let’s Build the Future Together</h3>
 
