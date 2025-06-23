@@ -27,34 +27,58 @@
 
 ---
 
-<h3 align="left">🛠 My Toolkit</h3>
+### 🛠 My Toolkit
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="Jupyter" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo" title="Pandas" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo" title="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" title="Anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="Markdown" />
+
+<!-- Programming & Scripting -->
+<img src="https://skillicons.dev/icons?i=python,bash,go" height="40" alt="Python, Bash, Go" title="Python, Bash, Go" />
+<img width="12" />
+
+<!-- AI/ML Frameworks -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" title="TensorFlow" />
+<img width="12" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" title="PyTorch" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=scikit-learn" height="40" title="Scikit-learn" />
+<img width="12" />
+
+<!-- NLP -->
+<img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge" height="40" title="spaCy" />
+<img width="12" />
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" height="40" title="NLTK" />
+<img width="12" />
+
+<!-- Data Tools -->
+<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" title="Pandas" />
+<img width="12" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" title="NumPy" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" title="MySQL, PostgreSQL" />
+<img width="12" />
+
+<!-- DevOps & Backend -->
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git" height="40" title="FastAPI, Docker, Git" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=flask,streamlit" height="40" title="Flask, Streamlit" />
+<img width="12" />
+
+<!-- Visualization -->
+<img src="https://skillicons.dev/icons?i=jupyter" height="40" title="Jupyter" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=markdown" height="40" title="Markdown" />
+<img width="12" />
+
+<!-- IDEs and OS -->
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,linux" height="40" title="VS Code, PyCharm, Linux" />
+<img width="12" />
+
+<!-- Misc Tools -->
+<img src="https://skillicons.dev/icons?i=colab" height="40" title="Google Colab" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" height="40" title="Render Deployment" />
+<img width="12" />
+
 </div>
 
 ---
