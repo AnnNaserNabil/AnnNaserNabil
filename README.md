@@ -32,7 +32,7 @@
 <div align="left">
 
 <!-- Programming & Scripting -->
-<img src="https://skillicons.dev/icons?i=python,bash,go" height="40" alt="Python, Bash, Go" title="Python, Bash, Go" />
+<img src="https://skillicons.dev/icons?i=python,bash,go" height="40" title="Python, Bash, Go" />
 <img width="12" />
 
 <!-- AI/ML Frameworks -->
@@ -49,6 +49,18 @@
 <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" height="40" title="NLTK" />
 <img width="12" />
 
+<!-- LLM Ecosystem -->
+<img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge" height="40" title="LangChain" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Crew%20AI-9146FF?style=for-the-badge&logoColor=white" height="40" title="Crew AI" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Agno%20Agents-1F1F1F?style=for-the-badge&logoColor=white" height="40" title="Agno Agents" />
+<img width="12" />
+
+<!-- Automation & Workflow -->
+<img src="https://img.shields.io/badge/n8n-EF2D5E?logo=n8n&logoColor=white&style=for-the-badge" height="40" title="n8n" />
+<img width="12" />
+
 <!-- Data Tools -->
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" title="Pandas" />
 <img width="12" />
@@ -57,10 +69,10 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" title="MySQL, PostgreSQL" />
 <img width="12" />
 
-<!-- DevOps & Backend -->
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git" height="40" title="FastAPI, Docker, Git" />
+<!-- Backend & APIs -->
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" height="40" title="FastAPI, Flask, Streamlit" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=flask,streamlit" height="40" title="Flask, Streamlit" />
+<img src="https://skillicons.dev/icons?i=docker,git" height="40" title="Docker, Git" />
 <img width="12" />
 
 <!-- Visualization -->
@@ -72,11 +84,13 @@
 <!-- IDEs and OS -->
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux" height="40" title="VS Code, PyCharm, Linux" />
 <img width="12" />
-
-<!-- Misc Tools -->
 <img src="https://skillicons.dev/icons?i=colab" height="40" title="Google Colab" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" height="40" title="Render Deployment" />
+<img width="12" />
+
+<!-- Bonus Fun Tool -->
+<img src="https://img.shields.io/badge/Minecraft%20Server-47AC45?logo=minecraft&logoColor=white&style=for-the-badge" height="40" title="Minecraft Server Hosting & Mods" />
 <img width="12" />
 
 </div>
