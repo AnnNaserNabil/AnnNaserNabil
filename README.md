@@ -89,9 +89,6 @@
 <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" height="40" title="Render Deployment" />
 <img width="12" />
 
-<!-- Bonus Fun Tool -->
-<img src="https://img.shields.io/badge/Minecraft%20Server-47AC45?logo=minecraft&logoColor=white&style=for-the-badge" height="40" title="Minecraft Server Hosting & Mods" />
-<img width="12" />
 
 </div>
 
