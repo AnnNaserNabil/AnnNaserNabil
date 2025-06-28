@@ -98,6 +98,8 @@
   <img src="https://api.boot.dev/v1/users/public/04f479d8-e1c5-4f08-82c5-f4cfc860f4e2/thumbnail" >
 </p>
 
+---
+
 <h3 align="left">🔥 My Stats</h3>
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
